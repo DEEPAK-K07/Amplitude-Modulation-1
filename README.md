@@ -74,7 +74,11 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
+MODEL GRAPH:
+ <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
+ 
 Program:
+```
 Ac = 16.6;
 Am = 8.3;
 Fc = 4900;
@@ -112,24 +116,13 @@ xgrid;
 title('Demodulated Signal');
 xlabel('Time');
 ylabel('Amplitude');
-
-Output Waveform:
-<img width="800" height="419" alt="1" src="https://github.com/user-attachments/assets/ed4e2fb4-2ab7-4196-9dd8-ee4f0d72e8c4" />
+```
 
 TABULATION:
 ![1](https://github.com/user-attachments/assets/e4b58869-7e32-4959-839a-931543dc8c3e)
 
-Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
-
-
-MODEL GRAPH
- <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
-
- 
- 
-
+Output Waveform:
+<img width="800" height="419" alt="1" src="https://github.com/user-attachments/assets/ed4e2fb4-2ab7-4196-9dd8-ee4f0d72e8c4" />
 
 RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
