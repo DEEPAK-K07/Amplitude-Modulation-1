@@ -118,11 +118,18 @@ xlabel('Time');
 ylabel('Amplitude');
 ```
 
+
 TABULATION:
+
 ![1](https://github.com/user-attachments/assets/e4b58869-7e32-4959-839a-931543dc8c3e)
 
+
 Output Waveform:
+
 <img width="800" height="419" alt="1" src="https://github.com/user-attachments/assets/ed4e2fb4-2ab7-4196-9dd8-ee4f0d72e8c4" />
 
+
+
 RESULT:
+
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
