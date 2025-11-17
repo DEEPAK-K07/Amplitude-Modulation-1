@@ -85,7 +85,7 @@ Fc = 4900;
 Fm = 490;
 Fs = 32000;
 t = 0:1/Fs:2/Fm;
-e1 = (Ac*sin(2*3.14*Fm*t));
+e1 = (Am*sin(2*3.14*Fm*t));
 subplot(4,1,1);
 plot(t,e1);
 xgrid;
