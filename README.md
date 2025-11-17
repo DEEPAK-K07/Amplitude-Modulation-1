@@ -78,7 +78,7 @@ MODEL GRAPH:
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
  
 Program:
-```
+```c
 Ac = 16.6;
 Am = 8.3;
 Fc = 4900;
